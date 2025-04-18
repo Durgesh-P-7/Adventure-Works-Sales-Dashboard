@@ -50,7 +50,7 @@ It helps business users and analysts:
 
 ---
 
-## 📈 Sample Insights (from Dashboard)
+## 📈 Insights 
 - Weekdays contributed **72%** of total profit
 - Premium-priced products brought in **95.4%** of the profit
 - The **50+ age group** accounted for **39.1%** of profitability
@@ -77,5 +77,6 @@ Here are snapshots of the Excel dashboard showcasing different analysis views:
 📁 Adventure-Works-Sales-Analysis/
 ├── Dashboard_Screenshot_1.png
 ├── Dashboard_Screenshot_2.png
-├── AdventureWorks_SalesDashboard.xlsx
+├── AdventureWorks.xlsx
+├── Final_Dashboard Creation (Adventureworks)
 ├── README.md
